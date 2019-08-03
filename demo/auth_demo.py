@@ -21,6 +21,18 @@ OFFSET="0"
 #close
 #OFFSET="1"
 
+#USERID="148#865#Trim"
+#PASSWORD="Af8236CTP#Trim"
+'''
+Testing on 2019/08/03
+注册账号：137~3417
+用户昵称：YF
+investorId：148865
+brokerId：9999
+挂靠会员：SimNow 
+
+'''
+
 def ReqorderfieldInsert(tradeapi):
 	print ("ReqOrderInsert Start")
 	orderfield=api.CThostFtdcInputOrderField()
